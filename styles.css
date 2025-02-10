@@ -9,7 +9,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  background: #228B22;
+  background: #068b06;
   position: relative;
   min-height: 100vh;
   color: #fff;
@@ -4815,7 +4815,7 @@ nav {
   }
 
   .animated-logo {
-    width: 300px;
+    width: 100px;
     height: 200px;
     margin-bottom: 20px;
     animation: rotate 2s ease-in-out;
@@ -7854,7 +7854,7 @@ nav {
   }
 
   .animated-logo {
-    width: 150px;
+    width: 100px;
     height: 150px;
     margin-bottom: 20px;
     animation: rotate 2s ease-in-out;
@@ -18428,8 +18428,8 @@ img {
 }
 
 .animated-logo {
-  width: 250px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 20px;
   animation: rotate 2s ease-in-out;
   border-radius: 20px;
@@ -18617,7 +18617,7 @@ body.loading {
 }
 
 .footer-logo {
-  width: 380px;
+  width: 290px;
   height: 300px;
   border-radius: 10px;
   margin: 0.5rem 0;
